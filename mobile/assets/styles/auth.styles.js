@@ -23,8 +23,8 @@ export const authStyles = StyleSheet.create({
     alignItems: "center",
   },
   image: {
-    width: 320,
-    height: 320,
+    width: 380,
+    height: 380,
   },
   title: {
     fontSize: 28,
